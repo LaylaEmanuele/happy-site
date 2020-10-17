@@ -7,10 +7,11 @@
 body {
   height: 100vh;
   color: white;
+  background: #ebf2f5;
 }
 
 :root {
-  font-size: 62.5%;
+  font-size: 54.5%;
 }
 
 body,
